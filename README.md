@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidreza01&label=Profile%20views&color=0e75b6&style=flat" alt="hamidreza01" /> </p>
 
-- 🔭 I’m currently working on **developix**
-
 - 📫 How to reach me **hi@hamidreza01.ir**
 
 <h3 align="left">Connect with me:</h3>
