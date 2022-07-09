@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [yarNovin](https://GitHub.com/hamidreza01)
 
-- 📫 How to reach me **hi@hamidreza01.ir**
+- 📫 How to reach me **say@hamidreza01.ir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
