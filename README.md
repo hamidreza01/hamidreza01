@@ -1,9 +1,8 @@
 
 # 💫 About Me:
-🧑‍💻 I am a middle fullStack developer from Iran 
-
-📫 How to reach me **say@hamidreza01.ir**
-
+🧑‍💻 I am a middle fullStack developer from Iran <br/>
+📫 How to reach me **say@hamidreza01.ir**<br/>
+❤️ I love Go and Java/Type Script
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_hamidm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidreza-ghahremani-675015222) 
