@@ -156,6 +156,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hamidreza01/hamidreza01/output/snake.svg" alt="Snake animation" />
 
 ###
