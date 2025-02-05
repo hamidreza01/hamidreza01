@@ -3,12 +3,6 @@
 ### Skills 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=adonis" height="30" alt="adonisjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="30" alt="alpinelinux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="amazondynamodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
@@ -32,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=d3" height="30" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=deno" height="30" alt="denojs logo"  />
   <img width="12" />
@@ -77,13 +67,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
   <img width="12" />
@@ -91,15 +77,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -125,9 +107,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wasm" height="30" alt="webassembly logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
 </div>
 
 ###
